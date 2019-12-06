@@ -1,0 +1,204 @@
+
+body {
+  border-width: 10px;
+  color:#0B3861;
+}
+#logo {
+    float: left;
+    width: 30%;
+    margin: 8px 35px 25px -155px;
+    background-repeat: no-repeat;
+}
+
+.menu{
+    float: right;
+    padding: 2px 40px;
+    font-size: 15px;
+}
+.menu ul li,
+.menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    display: block;
+    color: cadetblue;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+li a:hover {
+  background-color: lightgray;
+}
+.dropbtn {
+  background-color: white;
+  color: cadetblue;
+  padding: 13px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: whitesmoke;
+  min-width: 140px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: white}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: lightgray;
+}
+    
+.mySlides {display:none;}
+
+.primeirotexto{
+    margin: 120px 50px 150px 100px;
+    text-align: right;
+}
+
+h2 {
+    font-family: Sakkal Majalla, Sans-Serif;
+    color: #708090;
+    font-size: 4vw;
+    font-weight: bold;
+    text-align: right; 
+    
+
+}
+h3 {
+    margin: 45px 50px;
+    color: #708090;
+    float: center;
+}
+h4 {
+    font-family: Sakkal Majalla, Sans-Serif;
+    text-align: center;
+    
+}
+.force{
+    float: right;
+    text-align: right;
+    font-size: 15px;
+    color: cadetblue;
+    text-indent: 50px;
+}
+.clientes{
+    text-align: center;
+    margin: 100px 0;
+}
+.image{
+    color: snow;
+    margin: 230px 10px;
+    font-weight: bold;
+}
+intelbras {
+	color: gray;
+	float: center
+}
+.imagem2{
+    float: left;
+    width: 25%;
+    padding: 20px 45px;
+}
+.imagem3{
+    float: center;
+    width: 75%;
+    padding: 20px 40px 80px 200px;
+}
+.card{
+    text-align: center;
+    margin: 100px 0;
+}
+.orc{
+    text-align: center;
+    margin: 60px 20px;
+}
+.suporte{
+   margin: 150px 170px; 
+   text-align: left;
+}
+.supr{
+    padding: 40px 80px
+}
+.image4{
+    margin: 150px 170px;
+    
+    
+}
+input[type=text], select {
+  width: 95%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: gray;
+  color: lightgray;
+}
+input[type=email], select {
+  width: 95%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: gray;
+  color: lightgray;
+}
+input[type=submit] {
+  width: 15%;
+  background-color: cadetblue;
+  color: lightgray;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: cadetblue;
+}
+.container {
+  border-radius: 5px;
+  background-color: white;
+  padding: 100px 10px 90px 360px;
+  max-width:1000px;
+  text-align: center;
+  
+  
+    
+}
+.formulario {
+  border-radius: 5px;
+  background-color: gray;
+  padding: 20px;
+
+}
