@@ -1,0 +1,27 @@
+/*estilo*/
+body{
+
+	/* background-color:#311B92;*/
+	 background-image: url(logo.jpg);
+	 color: white;
+
+
+
+
+}
+h1{font-size:30pt;
+	background-color: #311B92;
+	/*background-image: url (projeto.pizzaria/logo.jpg);*/
+	font-fimy:Verdana,Arial,helvetica,sans-serif;
+	text-align: center;
+
+
+
+}
+footer{
+    color: black;
+    background-color: #424242;
+}
+.p{
+    color: blue;
+}
