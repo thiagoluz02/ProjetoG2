@@ -1,0 +1,15 @@
+            /*estilos da pagiana*/
+h2{
+    color: rgb(160, 11, 11);
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+footer {
+	margin: 4em auto 0 auto; /* Margem top=4em  rigtht=auto*/
+	width: 40em; /*Largura*/
+	text-align:center; /*Texto alinhado ao centro*/
+	font-size: 0.8em; /*tamanho da fonte*/
+}
